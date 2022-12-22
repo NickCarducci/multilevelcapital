@@ -169,7 +169,30 @@ export default class Basic extends React.Component {
             scrollTop={this.state.scrollTop}
           />
         </a>
-        Reverse amortization
+        <h3 style={{ margin: "4px 0px" }}>
+          Does the FDIC insure private investments?
+        </h3>
+        Reverse amortization ={space}
+        <span
+          style={{
+            textDecoration: "line-through"
+          }}
+        >
+          reverse{space}
+          <i>non-checkable private</i>
+          {space}(Consumption/savings), and{space}
+          <i>checkable public</i>
+          {space}(Government/checkable)
+          {space}credit-based economy, income.
+        </span>
+        <br />
+        In keeping with currency balances, (cash/debt)*income. This flattens
+        income to the point in which there was no loan to begin with. Inequality
+        should return to the level of the program start date, deducting income
+        histories of those who spent and returning purchasing power to those
+        that saved. These balances should reflect after income and before debt
+        services their initial, proper use - instead of either debt service plus
+        foreclosure or general income payday purchases.
         {/**
         
             <Cable
