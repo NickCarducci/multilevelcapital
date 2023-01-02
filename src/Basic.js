@@ -151,6 +151,16 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Isn't forced investment and/or covered losses the cause of inflation?
+        {space}
+        <a href="https://reddit.com/r/islamicbanks">
+          <i>
+            Doesn’t a local tax protocol require either a scale or schedule
+            without stolen purchases?
+          </i>
+        </a>
+        <br />
+        <br />
         <a href="https://fred.stlouisfed.org/graph/?g=XTtG">
           <Cable
             style={{ width: "100%" }}
