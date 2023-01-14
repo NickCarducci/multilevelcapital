@@ -159,6 +159,8 @@ export default class Basic extends React.Component {
             without stolen purchases?
           </i>
         </a>
+        {space}Would you reverse the total to cash liabilities? vau.money Are liabilities third party donee beneficiaries' or lenders' and borrowers' assets?
+
         <br />
         <br />
         <a href="https://fred.stlouisfed.org/graph/?g=XTtG">
