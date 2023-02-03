@@ -348,7 +348,9 @@ export default class Basic extends React.Component {
         tie, unless something changes.
         <br />
         <br />
-        Escrow only helps benefactors
+        Escrow only helps benefactors: Yes, and as the price of the chocolate
+        bar rises, they will save up more for it. In reality, the only Giffen
+        goods are rather superior.
       </div>
     );
   }
