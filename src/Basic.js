@@ -151,6 +151,24 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        <h3>
+          Isn’t an immediate game extractable while{space}
+          <b style={{ float: "right", margin: "10px 0px" }}>
+            taxsecurityfirst.com
+          </b>
+          intertemporal insurance is intractable?{space}
+          <i>Isn’t insurance for warehousing and extractable claims if cash?</i>
+          {space}
+          <span style={{ fontSize: "14px" }}>
+            Do shipping companies sell insurance to placate you into not suing
+            them for either lost and/or unphotographed deliveries?{space}
+            <i>
+              Do you have to pay back personal debts at probate if your assets
+              are public stock, if you are partner, or if your total good will
+              equals total cash?
+            </i>
+          </span>
+        </h3>
         Isn't forced investment and/or covered losses the cause of inflation?
         {space}
         <a href="https://reddit.com/r/islamicbanks">
