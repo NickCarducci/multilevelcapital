@@ -151,6 +151,8 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Does insurance-warranty advance and estimate-invoice bill labor or
+        employer liability protect consumers from contract fraud?
         <h3>
           Isn’t an immediate game extractable while{space}
           <b style={{ float: "right", margin: "10px 0px" }}>
