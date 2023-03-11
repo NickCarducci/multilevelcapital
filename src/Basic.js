@@ -151,8 +151,16 @@ export default class Basic extends React.Component {
         >
           more
         </div>
-        Does insurance-warranty advance and estimate-invoice bill labor or
-        employer liability protect consumers from contract fraud?
+        Are dollar or percentage discount consumers protected from coupon book
+        fraud? Are coupon books promotional while insurance recurs?
+        <br />
+        <br />
+        Do gift card advance acquisitions or estimate-invoice certificate
+        procurements subject labor to consumer fraud penalties?{space}
+        <i style={{ color: "grey" }}>
+          Does insurance-warranty advance and estimate-invoice bill labor or
+          employer liability protect consumers from contract fraud?
+        </i>
         <h3>
           Isn’t an immediate game extractable while{space}
           <b style={{ float: "right", margin: "10px 0px" }}>
