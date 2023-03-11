@@ -170,14 +170,18 @@ export default class Basic extends React.Component {
         </i>
         <br />
         <br />
-        <span style={{ color: "darkviolet" }}>
+        <span style={{ color: "plum" }}>
           Do gift card advance acquisitions or estimate-invoice certificate
           procurements subject labor to consumer fraud penalties?
         </span>
         {space}
-        <i style={{ color: "grey" }}>
-          Does insurance-warranty advance and estimate-invoice bill labor or
-          employer liability protect consumers from contract fraud?
+        <i style={{ color: "darkviolet" }}>
+          Is selling a fraud protected premium version of a product that you
+          sell anyway fraud?{space}
+          <i style={{ color: "grey" }}>
+            Does insurance-warranty advance and estimate-invoice bill labor or
+            employer liability protect consumers from contract fraud?
+          </i>
         </i>
         <br />
         <br />
@@ -218,7 +222,9 @@ export default class Basic extends React.Component {
         </a>
         {space}
         <span style={{ color: "grey" }}>
-          Would you reverse the total to cash liabilities? vau.money{space}
+          Would you reverse the total to cash liabilities? vau.money (Should
+          young people pay a mortgage or rent and save income tax free for a
+          primary residence?){space}
           <span style={{ color: "peachpuff" }}>
             Are liabilities third party donee beneficiaries' or lenders' and
             borrowers' assets? (Are personal, corporate, and lien debt illegal
