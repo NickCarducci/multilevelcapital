@@ -162,8 +162,11 @@ export default class Basic extends React.Component {
         <span style={{ color: "cornflowerblue" }}>
           Is{space}
           <b style={{ color: "black" }}>billing</b>
-          {space}pre-probate remuneration garnishment why nonsale advance
-          exchanges are rather tax-free income?
+          {space}pre-probate remuneration garnishment why{space}
+          <span style={{ color: "forestgreen" }}>
+            nonsale advance exchanges
+          </span>
+          {space}are rather tax-free income?
         </span>
         {space}
         <i style={{ color: "grey" }}>
@@ -176,7 +179,11 @@ export default class Basic extends React.Component {
         <br />
         <br />
         <span style={{ color: "plum" }}>
-          Dogift card advance acquisitions or{space}
+          Do{space}
+          <span style={{ color: "forestgreen" }}>
+            gift card advance acquisitions
+          </span>
+          {space}or{space}
           <b style={{ color: "black" }}>
             estimate-invoice certificate procurements
           </b>
