@@ -152,7 +152,7 @@ export default class Basic extends React.Component {
           more
         </div>
         <b style={{ float: "left", margin: "5px", marginRight: "10px" }}>
-          micro-theory.com
+          micro-theory.com (debt)
         </b>
         <span style={{ color: "dodgerblue" }}>
           Why are gift certificates and not gift cards subject to consumer fraud
@@ -176,10 +176,11 @@ export default class Basic extends React.Component {
         <br />
         <br />
         <span style={{ color: "plum" }}>
-          Do{space}
-          <b style={{ color: "black" }}>gift card advance acquisitions</b>
-          {space}or estimate-invoice certificate procurements subject labor to
-          consumer fraud penalties?
+          Dogift card advance acquisitions or{space}
+          <b style={{ color: "black" }}>
+            estimate-invoice certificate procurements
+          </b>
+          {space}subject labor to consumer fraud penalties?
         </span>
         {space}
         <i style={{ color: "darkviolet" }}>
