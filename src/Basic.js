@@ -151,6 +151,9 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        <b style={{ float: "left", margin: "5px", marginRight: "10px" }}>
+          micro-theory.com
+        </b>
         <span style={{ color: "dodgerblue" }}>
           Why are gift certificates and not gift cards subject to consumer fraud
           charges for either inflation or subpar labor performance?
