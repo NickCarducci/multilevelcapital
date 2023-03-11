@@ -151,45 +151,81 @@ export default class Basic extends React.Component {
         >
           more
         </div>
-        Are dollar or percentage discount consumers protected from coupon book
-        fraud? Are coupon books promotional while insurance recurs?
+        <span style={{ color: "dodgerblue" }}>
+          Why are gift certificates and not gift cards subject to consumer fraud
+          charges for either inflation or subpar labor performance?
+        </span>
+        {space}
+        <span style={{ color: "cornflowerblue" }}>
+          Is billing pre-probate remuneration garnishment why nonsale advance
+          exchanges are rather tax-free income?
+        </span>
+        {space}
+        <i style={{ color: "grey" }}>
+          Are dollar or percentage discount consumers protected from coupon book
+          fraud?{space}
+          <i style={{ color: "lightsteelblue" }}>
+            Are coupon books promotional while insurance recurs?
+          </i>
+        </i>
         <br />
         <br />
-        Do gift card advance acquisitions or estimate-invoice certificate
-        procurements subject labor to consumer fraud penalties?{space}
+        <span style={{ color: "darkviolet" }}>
+          Do gift card advance acquisitions or estimate-invoice certificate
+          procurements subject labor to consumer fraud penalties?
+        </span>
+        {space}
         <i style={{ color: "grey" }}>
           Does insurance-warranty advance and estimate-invoice bill labor or
           employer liability protect consumers from contract fraud?
         </i>
-        <h3>
-          Isn’t an immediate game extractable while{space}
-          <b style={{ float: "right", margin: "10px 0px" }}>
-            taxsecurityfirst.com
-          </b>
-          intertemporal insurance is intractable?{space}
-          <i>Isn’t insurance for warehousing and extractable claims if cash?</i>
-          {space}
-          <span style={{ fontSize: "14px" }}>
-            Do shipping companies sell insurance to placate you into not suing
-            them for either lost and/or unphotographed deliveries?{space}
-            <i>
-              Do you have to pay back personal debts at probate if your assets
-              are public stock, if you are partner, or if your total good will
-              equals total cash?
-            </i>
+        <br />
+        <br />
+        <span>
+          <span style={{ color: "darkgreen" }}>
+            Isn’t an immediate game extractable while{space}
+            <b style={{ float: "right", margin: "10px 0px" }}>
+              taxsecurityfirst.com
+            </b>
+            intertemporal insurance is intractable?
           </span>
-        </h3>
-        Isn't forced investment and/or covered losses the cause of inflation?
+          {space}
+        </span>
+        <br />
+        <i style={{ color: "forestgreen" }}>
+          Isn’t insurance for warehousing and extractable claims if cash?
+        </i>
         {space}
-        <a href="https://reddit.com/r/islamicbanks">
+        <span style={{ color: "grey" }}>
+          Do shipping companies sell insurance to placate you into not suing
+          them for either lost and/or unphotographed deliveries?{space}
+          <i style={{ color: "lightslategray" }}>
+            Do you have to pay back personal debts at probate if your assets are
+            public stock, if you are partner, or if your total good will equals
+            total cash?
+          </i>
+        </span>
+        <hr />
+        <span style={{ color: "chocolate" }}>
+          Isn't forced investment and/or covered losses the cause of inflation?
+        </span>
+        {space}
+        <a style={{ color: "orange" }} href="https://reddit.com/r/islamicbanks">
           <i>
             Doesn’t a local tax protocol require either a scale or schedule
             without stolen purchases?
           </i>
         </a>
-        {space}Would you reverse the total to cash liabilities? vau.money Are
-        liabilities third party donee beneficiaries' or lenders' and borrowers'
-        assets?
+        {space}
+        <span style={{ color: "grey" }}>
+          Would you reverse the total to cash liabilities? vau.money{space}
+          <span style={{ color: "peachpuff" }}>
+            Are liabilities third party donee beneficiaries' or lenders' and
+            borrowers' assets? (Are personal, corporate, and lien debt illegal
+            if just tax hikes in the next year to cover annual deficits is
+            constitutional?)
+          </span>
+        </span>
         <br />
         <br />
         <a href="https://fred.stlouisfed.org/graph/?g=XTtG">
