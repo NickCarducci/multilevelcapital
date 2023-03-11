@@ -157,7 +157,9 @@ export default class Basic extends React.Component {
         </span>
         {space}
         <span style={{ color: "cornflowerblue" }}>
-          Is billing pre-probate remuneration garnishment why nonsale advance
+          Is{space}
+          <b style={{ color: "black" }}>billing</b>
+          {space}pre-probate remuneration garnishment why nonsale advance
           exchanges are rather tax-free income?
         </span>
         {space}
@@ -171,8 +173,10 @@ export default class Basic extends React.Component {
         <br />
         <br />
         <span style={{ color: "plum" }}>
-          Do gift card advance acquisitions or estimate-invoice certificate
-          procurements subject labor to consumer fraud penalties?
+          Do{space}
+          <b style={{ color: "black" }}>gift card advance acquisitions</b>
+          {space}or estimate-invoice certificate procurements subject labor to
+          consumer fraud penalties?
         </span>
         {space}
         <i style={{ color: "darkviolet" }}>
