@@ -155,8 +155,23 @@ export default class Basic extends React.Component {
           micro-theory.com (debt)
         </b>
         <span style={{ color: "dodgerblue" }}>
-          Why are gift certificates and not gift cards subject to consumer fraud
-          charges for either inflation or subpar labor performance?
+          Why{space}
+          <span style={{ color: "forestgreen" }}>
+            are gift certificates{space}
+            <span style={{ color: "black" }}>
+              <span style={{ color: "dodgerblue" }}>
+                and
+                {space}not gift cards
+              </span>
+              {space}subject to
+            </span>
+            {space}consumer fraud charges
+          </span>
+          {space}for{space}
+          <a href="https://scopes.cc" style={{ color: "tan" }}>
+            either inflation or subpar
+          </a>
+          {space}labor performance?
         </span>
         {space}
         <span style={{ color: "cornflowerblue" }}>
@@ -211,9 +226,16 @@ export default class Basic extends React.Component {
           {space}
         </span>
         <br />
-        <i style={{ color: "forestgreen" }}>
-          Isn’t insurance for warehousing and extractable claims if cash?
-        </i>
+        <a
+          href="https://insurancebenefits.quora.com/How-do-membership-discounts-and-insurance-differ-1"
+          style={{ color: "forestgreen" }}
+        >
+          <i>
+            Isn’t insurance for{space}
+            <span style={{ color: "black" }}>warehousing</span>
+            {space}and extractable claims if cash?
+          </i>
+        </a>
         {space}
         <span style={{ color: "grey" }}>
           Do shipping companies sell insurance to placate you into not suing
