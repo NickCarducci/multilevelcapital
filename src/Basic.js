@@ -192,6 +192,8 @@ export default class Basic extends React.Component {
           </i>
         </i>
         <br />
+        Aren't intermediate business invoices garnishable while advances are
+        subject to consumer fraud protection liability?
         <br />
         <span style={{ color: "plum" }}>
           Do{space}
