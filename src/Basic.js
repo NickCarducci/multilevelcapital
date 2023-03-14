@@ -151,6 +151,51 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        <h3 style={{ float: "right", margin: "4px 0px" }}>
+          quora.com/profile/Nick-Carducci
+        </h3>
+        Can we recover from poverty with variable income capital or does total
+        employment while all else remains equal destabilize and stress the
+        natural liquid market for goods?
+        <h2>
+          Can foreclosures withhold sales and incur equity capital losses until
+          home prices rise to the lender's liking? Can a mortgage include
+          utilities and maintenance?
+        </h2>
+        <i>
+          Does a lender have to sell their property before they evict someone?
+        </i>
+        {space}I think so.{space}
+        <b>
+          But we cannot make it worse by being gross probably after reading a
+          mortgage (and foreclosure compulsion) cannot include utilities and
+          maintenance.
+        </b>
+        {space}
+        <i>
+          Good thing they HAVE to pay the principal and not get* any capital
+          gains after your equity expectations for it in the first place.
+        </i>
+        {space}
+        <br />I would tell your lender, “I cannot stop you from showing the
+        house and paying off the principal, and I will not damage either of our
+        home value, but I am a realtor and I’m working to sell the home in
+        parallel.”
+        <h1>
+          “But the equity is mine.”{space}
+          <span style={{ fontSize: "12px" }}>
+            Unless you think you’ll sell it below par, … which we don’t plan
+            for.
+          </span>
+        </h1>
+        <i>If neither of you can sell it, they have to defer.</i>
+        {space}
+        If the value is a lot higher than principal, and we could resolve the
+        debt with a subpar sale… we need to adjust for inflation like everyone
+        else, after all. This shouldn’t go for torts in the stages of reprisal,
+        just compulsion (to sell). Torts for reprisal should use the individual
+        receipt instead of market good will.
+        <br />
         <b style={{ float: "left", margin: "5px", marginRight: "10px" }}>
           micro-theory.com (debt)
         </b>
@@ -193,7 +238,7 @@ export default class Basic extends React.Component {
         </i>
         <br />
         Aren't intermediate business invoices garnishable while advances are
-        subject to consumer fraud protection liability?
+        subject to consumer fraud protection liability ?
         <br />
         <span style={{ color: "plum" }}>
           Do{space}
@@ -318,7 +363,7 @@ export default class Basic extends React.Component {
         <h3 style={{ margin: "4px 0px" }}>
           Does the FDIC insure private investments?
         </h3>
-        Reverse amortization ={space}
+        Reverse amortization = {space}
         <span
           style={{
             textDecoration: "line-through"
@@ -326,24 +371,24 @@ export default class Basic extends React.Component {
         >
           reverse{space}
           <i>non-checkable private</i>
-          {space}(Consumption/savings), and{space}
+          {space} (Consumption / savings), and{space}
           <i>checkable public</i>
-          {space}(Government/checkable)
-          {space}credit-based economy, income.
+          {space} (Government / checkable)
+          {space} credit - based economy, income.
         </span>
         <br />
-        In keeping with currency balances, (cash/debt)*income. This flattens
-        income to the point in which there was no loan to begin with. Inequality
+        In keeping with currency balances, (cash / debt) * income.This flattens
+        income to the point in which there was no loan to begin with.Inequality
         should return to the level of the program start date, deducting income
         histories of those who spent and returning purchasing power to those
-        that saved. These balances should reflect after income and before debt
+        that saved.These balances should reflect after income and before debt
         services their initial, proper use - instead of either debt service plus
         foreclosure or general income payday purchases.
         <br />
         <br />
         <a href="https://goprovider.us">goprovider.us</a>
-        {space}&bull;{space}Does escrow make healthcare more affordable and
-        accessible?
+        {space}& bull; {space}Does escrow make healthcare more affordable and
+        accessible ?
         {/**
         
             <Cable
@@ -371,15 +416,15 @@ export default class Basic extends React.Component {
         Scalping Schedules and Expiring Commodities
         <br />
         <br />
-        Why this makes precedent for all casual loans (not just{space}
+        Why this makes precedent for all casual loans(not just{space}
         <a href="https://economics.stackexchange.com/questions/36012/why-does-ricardian-equivalence-not-hold-when-there-are-different-borrowing-and-l/54319">
           crowding
         </a>
-        ): Is Biden v Nebraska helping Job Creators Network with pre-probate,
-        escrow-benefactor whole-making.
+        ): Is Biden v Nebraska helping Job Creators Network with pre - probate,
+        escrow - benefactor whole - making.
         <br />
         <br />
-        “[They are hunting uiyers]; commie blimp (launch the angry birds)”
+        “[They are hunting uiyers]; commie blimp(launch the angry birds)”
         <br />
         <br />
         Obligate implied and reverse total to cash liability
@@ -388,30 +433,30 @@ export default class Basic extends React.Component {
         Government and insurance has taken over our lives
         <br />
         <br />
-        haha this is so funny. birthright for mexians and haitians
+        haha this is so funny.birthright for mexians and haitians
         <br />
         <br />
-        Is a benefactor stable or growing? It’s both a cost and income, but its
+        Is a benefactor stable or growing ? It’s both a cost and income, but its
         competitive deflation is always a complementary substitution in proving
         leisure product materiality to life basis. 1031 Reit payroll advance
-        payments if you want to be not liable for proprietorships. Just file,
+        payments if you want to be not liable for proprietorships.Just file,
         don’t use a merchant account with carry forward losses because health
         reimbursement arrangements can just use 2503(e) and 529 for no capital
-        gains tax… Is rent ordinary income or capital gains?
+        gains tax… Is rent ordinary income or capital gains ?
         <br />
         <br />
         Is rent to a category code 6513 merchant ordinary income while rent to a
-        category code 8299 trust a capital gain?
+        category code 8299 trust a capital gain ?
         <br />
         <br />
         Is rent to a category code 6513 merchant ordinary income while rent to a
-        category code 8299 trust a capital gain? Can a non-charitable material
-        purpose 529 trust be complex with a trustee separate from its grantor
-        and have unnamed beneficiaries?
+        category code 8299 trust a capital gain ? Can a non - charitable
+        material purpose 529 trust be complex with a trustee separate from its
+        grantor and have unnamed beneficiaries ?
         <br />
         <br />
         Can a stored value card be used by a business to defer gifts from
-        clients to its unincorporated trust associations until tax season?
+        clients to its unincorporated trust associations until tax season ?
         <br />
         <br />
         #### Without an itemized property lein loan, you need to wait for
@@ -422,13 +467,13 @@ export default class Basic extends React.Component {
         another trade name.
         <br />
         <br />
-        *You may contact them for:*
+        * You may contact them for:*
         <br />
         <br />
-        If you have collateralized an item (or trade and industry name) for sale
-        *as opposed to a tangible advanced payment for a scope of work
-        requirements to which rather consumer fraud law applies*, you can
-        foreclose (or garnish), still without violating FTC regulations and
+        If you have collateralized an item(or trade and industry name) for sale
+        * as opposed to a tangible advanced payment for a scope of work
+        requirements to which rather consumer fraud law applies *, you can
+        foreclose(or garnish), still without violating FTC regulations and
         infringing on consumers' rights, provided that you:
         <br />
         <br />
@@ -436,35 +481,34 @@ export default class Basic extends React.Component {
         conspicuous statement describing a reasonable and simple method by which
         the consumer can opt out of further electronic communications or
         attempts to communicate by the debt collector to that address or
-        telephone number. (*Code of Federal Regulations Title 12 § 1006.6
-        Communications in connection with debt collection, e: Opt-out notice for
-        electronic communications or attempts to communicate*)
+        telephone number. (* Code of Federal Regulations Title 12 § 1006.6
+        Communications in connection with debt collection, e: Opt - out notice
+        for electronic communications or attempts to communicate *)
         <br />
         <br />
-        i. For the purpose of acquiring location information[]; > * [T]he debt
+        i.For the purpose of acquiring location information[]; > * [T]he debt
         collector is seeking to identify and locate the person who is authorized
-        to act on behalf of the deceased consumer’s estate. The debt collector
+        to act on behalf of the deceased consumer’s estate.The debt collector
         may also state that the debt collector is seeking to identify and locate
-        the person handling the financial affairs of the deceased consumer.
-        (*op. cit., 10: Acquisition of Location Information, b: Form and content
-        of location communications, 2*, )
+        the person handling the financial affairs of the deceased consumer. (*
+        op.cit., 10: Acquisition of Location Information, b: Form and content of
+        location communications, 2 *,)
         <br />
         <br />
-        ii. With the prior consent of the consumer given directly to the debt
+        ii.With the prior consent of the consumer given directly to the debt
         collector;
         <br />
         <br />
-        iii. With the express permission of a court of competent jurisdiction;
-        or
+        iii.With the express permission of a court of competent jurisdiction; or
         <br />
         <br />
-        iv. As reasonably necessary to effectuate a postjudgment judicial
-        remedy. (*op. cit., d: Communications with third parties—, 2:
-        Exceptions, i-iv*)
+        iv.As reasonably necessary to effectuate a postjudgment judicial remedy.
+        (* op.cit., d: Communications with third parties—, 2: Exceptions, i - iv
+        *)
         <br />
         <br />
         You may be required to return down payments upon either repossession or
-        foreclosure-sale of collateral, if any.
+        foreclosure - sale of collateral, if any.
         <br />
         <br />
         More than living
@@ -473,16 +517,16 @@ export default class Basic extends React.Component {
         Contest
         <br />
         <br />
-        For industry and state, non-binary, non-explicit approval pluralities
-        are unitary by binary issues, which are always decisive with a smallest
-        winning set as there are many choices and/or platforms. To maximize
-        binary issue representation by sample modicum, make more choices and/or
-        use approval voting for old ones. People are "strategic" to break the
-        tie, unless something changes.
+        For industry and state, non - binary, non - explicit approval
+        pluralities are unitary by binary issues, which are always decisive with
+        a smallest winning set as there are many choices and / or platforms.To
+        maximize binary issue representation by sample modicum, make more
+        choices and / or use approval voting for old ones.People are "strategic"
+        to break the tie, unless something changes.
         <br />
         <br />
         Escrow only helps benefactors: Yes, and as the price of the chocolate
-        bar rises, they will save up more for it. In reality, the only Giffen
+        bar rises, they will save up more for it.In reality, the only Giffen
         goods are rather superior.
       </div>
     );
