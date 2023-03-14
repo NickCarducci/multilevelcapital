@@ -212,6 +212,30 @@ export default class Basic extends React.Component {
             Does insurance-warranty advance and estimate-invoice bill labor or
             employer liability protect consumers from contract fraud?
           </i>
+          {space}
+          <i style={{ color: "lightsalmon" }}>
+            Aren't labor contracts responsive to{space}
+            <span style={{ color: "forestgreen" }}>
+              advance warranty exchanges
+            </span>
+            {space}
+            while business contracts receive{space}
+            <b style={{ color: "black" }}>final good invoices</b>
+            {space}for nonsale wages?{space}
+            <span style={{ color: "chocolate" }}>
+              Do banks need to lend deposits or should the police tax for either
+              stagflation or degrowth and rather cut after a windfall budget
+              surplus?
+            </span>
+            {/* Should personal or student loans
+            use merchant categories to indenture borrowers after third party
+            donee cash beneficiaries end general non-ownership interest and
+            multi-level capital? Does everyone principally share just public
+            debt or private either general interest or collateralized debt as
+            well? Would a liberalized commercial trade legislation facilitate
+            holds on final good rents, interest, or industry-specific stock
+            returns?*/}
+          </i>
         </i>
         <br />
         <br />
