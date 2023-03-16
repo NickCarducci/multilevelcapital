@@ -164,6 +164,9 @@ export default class Basic extends React.Component {
           home prices rise to the lender's liking? Can a mortgage include
           utilities and maintenance?
         </h2>
+        <h3 style={{ float: "right", margin: "4px 0px" }}>
+          landlordliquidity.quora.com
+        </h3>
         <i>
           Does a lender have to sell their property before they evict someone?
         </i>
