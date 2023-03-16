@@ -154,6 +154,8 @@ export default class Basic extends React.Component {
         <h3 style={{ float: "right", margin: "4px 0px" }}>
           quora.com/profile/Nick-Carducci
         </h3>
+        Do you prefer multi-level capital or immediate stock commerce?
+        <h1>OccupyWall.Us</h1>
         Can we recover from poverty with variable income capital or does total
         employment while all else remains equal destabilize and stress the
         natural liquid market for goods?
@@ -532,3 +534,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
