@@ -151,6 +151,14 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Partnership stewardship over revenuedata.doi.gov, personal lfp,
+        (collateral just) realty, codify (by mcc student and government)
+        <h3>
+          There is no technical nor operational requirement to lend deposits
+          (bailout bankrupt laundering, the bailout is debt, and bankruptcies
+          are the problem + debts are until capital becomes good, deflated or
+          equalized fixed costs)
+        </h3>
         I'll vote on the ceiling if you codify debt by mcc.
         <br />
         <a href="https://marginalism.uk">All (budgets) at once</a>
