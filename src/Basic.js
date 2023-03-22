@@ -151,6 +151,8 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        Tax back progressive-receivable funds
+        <br />
         Less kids per inflation - plaintiffrecessiontax.us{space}injury, trauma,
         and disaster{space}
         <i>SHOULD</i>
