@@ -151,6 +151,13 @@ export default class Basic extends React.Component {
         >
           more
         </div>
+        I'll vote on the ceiling if you codify debt by mcc.
+        <br />
+        <a href="https://marginalism.uk">All (budgets) at once</a>
+        {space}- Keynes the plagiarist: Liquid, variable capital
+        {/* - risk free bank injury plaintiffrecessiontax.com*/}
+        <br />
+        <br />
         <h3 style={{ float: "right", margin: "4px 0px" }}>
           quora.com/profile/Nick-Carducci
         </h3>
