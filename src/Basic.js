@@ -173,6 +173,12 @@ export default class Basic extends React.Component {
             compelling complementary demand and anarchy for objective plaintiff
             technology?
           </span>
+          {space}
+          <span style={{ color: "forestgreen" }}>
+            Even though GDP isn’t counted and it rises during slavery, doesn’t
+            that mean the nuclear family causes either inflation or
+            shrinkflation?
+          </span>
         </i>
         <h3>
           There is no technical nor operational requirement to lend deposits
@@ -575,4 +581,3 @@ export default class Basic extends React.Component {
     );
   }
 }
-
