@@ -162,6 +162,18 @@ export default class Basic extends React.Component {
         <br />
         Partnership stewardship over revenuedata.doi.gov, personal lfp,
         (collateral just) realty, codify (by mcc student and government).
+        <hr />
+        <i style={{ color: "chocolate" }}>
+          Can a civilian screen to involuntarily commit another someone for
+          speaking dangerously, threatening, and protesting angrily about
+          surrendered bid opportunities of current third party cash
+          beneficiaries like themselves, slavery, or anything else?{space}
+          <span style={{ color: "darkviolet" }}>
+            Isn’t socialism for injury and trauma welfare while communism is for
+            compelling complementary demand and anarchy for objective plaintiff
+            technology?
+          </span>
+        </i>
         <h3>
           There is no technical nor operational requirement to lend deposits
           (bailout bankrupt laundering, the bailout is debt, and bankruptcies
@@ -563,3 +575,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
