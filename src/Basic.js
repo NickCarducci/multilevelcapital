@@ -151,7 +151,9 @@ export default class Basic extends React.Component {
         >
           more
         </div>
-        Tax back progressive-receivable funds
+        Total befits factors:
+        <br />
+        Tax back progressive-receivable funds (curves deshrinkflate)
         <br />
         Less kids per inflation - plaintiffrecessiontax.us{space}injury, trauma,
         and disaster{space}
@@ -164,7 +166,9 @@ export default class Basic extends React.Component {
           There is no technical nor operational requirement to lend deposits
           (bailout bankrupt laundering, the bailout is debt, and bankruptcies
           are the problem + debts are until capital becomes good, deflated or
-          equalized fixed costs).
+          equalized fixed costs; 5 condos, floors, single-family homes, or
+          stores plausible{space}
+          <a href="https://vau.money/login">1520 or under 30 days</a>).
         </h3>
         I'll vote on the ceiling if you codify debt by mcc.
         <br />
